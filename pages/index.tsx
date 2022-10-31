@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className="">
       <Head>
-        <title>Airbnb</title>
+        <title>Airbnb 2</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {/* Header */}
